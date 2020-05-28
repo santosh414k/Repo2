@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5E50-AF43
+
+ Directory of C:\Users\kanmuss\Desktop\MyProject
+
+05/28/2020  07:37 PM    <DIR>          .
+05/28/2020  07:37 PM    <DIR>          ..
+05/28/2020  07:37 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  169,920,319,488 bytes free
